@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Cours/jcalendar-1.4.zip!/doc/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Cours/jcalendar-1.4.zip!/src" />
+    </SOURCES>
+  </library>
+</component>
